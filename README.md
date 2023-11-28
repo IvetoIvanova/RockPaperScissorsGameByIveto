@@ -10,7 +10,7 @@ The game is implemented in Java and provides a console-based user interface. It 
 - Java
 
 ## Source Code
-Find the source code for the project on GitHub: [RockPaperScissorsGameByIveto](.src/RockPaperScissors)
+Find the source code for the project on GitHub: [RockPaperScissors](./.src/RockPaperScissors.java)
 
 ## Screenshots
 
