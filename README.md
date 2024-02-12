@@ -1,5 +1,7 @@
 # RockPaperScissorsGameByIveto
 
+![Game Image](./images/RockPaperAndScissorsByIveto.jpg)
+
 ## Project Goals
 The Rock-Paper-Scissors Game is a simple interactive two-player experience, where one player is a human making choices between 'rock', 'paper' or 'scissors' and the other player is the computer. The goal of this project is to provide a fun and interactive implementation of the classic game.
 
@@ -18,6 +20,10 @@ Find the source code for the project on GitHub: [RockPaperScissors.java](./src)
 ![Game Screenshot 2](./images/screenshot2.jpg)
 ![Game Screenshot 3](./images/screenshot3.jpg)
 ![Game Screenshot 4](./images/screenshot4.jpg)
+
+## Live Demo
+Experience the game in action! You can play the game directly in your Web browser here: [Live Demo](https://replit.com/@stepbystepp333/RockPaperScissorsGameByIveto?v=1)
+![Game Screenshot 5](./images/ReplitScreenshot.jpg)
 
 ## Installation Instructions
 1. Clone the repository to your local machine.
