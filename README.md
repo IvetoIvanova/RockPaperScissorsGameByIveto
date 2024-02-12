@@ -1,6 +1,6 @@
 <div align="center">
   <h1>RockPaperScissorsGameByIveto</h1>
-  <img src="https://github.com/IvetoIvanova/RockPaperScissorsGameByIveto/blob/main/images/RockPaperAndScissorsByIveto.jpg" alt="RockPaperScissorsGameByIveto's image" style="max-width: 200px;">
+  <img src="https://github.com/IvetoIvanova/RockPaperScissorsGameByIveto/blob/main/images/RockPaperAndScissorsByIveto.jpg" alt="RockPaperScissorsGameByIveto's image" style="max-width: 100px;">
   <p>The Rock-Paper-Scissors Game is a simple interactive two-player experience, where one player is a human making choices between 'rock', 'paper' or 'scissors' and the other player is the computer. The goal of this project is to provide a fun and interactive implementation of the classic game.</p>
 </div>
 
