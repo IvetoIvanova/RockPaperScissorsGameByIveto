@@ -1,9 +1,8 @@
-# RockPaperScissorsGameByIveto
-
-![Game Image](./images/RockPaperAndScissorsByIveto.jpg)
-
-## Project Goals
-The Rock-Paper-Scissors Game is a simple interactive two-player experience, where one player is a human making choices between 'rock', 'paper' or 'scissors' and the other player is the computer. The goal of this project is to provide a fun and interactive implementation of the classic game.
+<div align="center">
+  <h1>RockPaperScissorsGameByIveto</h1>
+  <img src="https://github.com/IvetoIvanova/RockPaperScissorsGameByIveto/blob/main/images/RockPaperAndScissorsByIveto.jpg" alt="RockPaperScissorsGameByIveto's image">
+  <p>The Rock-Paper-Scissors Game is a simple interactive two-player experience, where one player is a human making choices between 'rock', 'paper' or 'scissors' and the other player is the computer. The goal of this project is to provide a fun and interactive implementation of the classic game.</p>
+</div>
 
 ## Solution
 The game is implemented in Java and provides a console-based user interface. It includes features such as player input validation, a scoring system, and the option to restart the game after each round. The code is structured to ensure clarity and modularity.
